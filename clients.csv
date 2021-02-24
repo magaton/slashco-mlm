@@ -1,5 +1,5 @@
 id,login,name,sponsor,email,password,type,zip,latitude,longitude,registrationDate,ranking,sponsorId,OrgId
-0,c0,Root,,c0@acme.com,password,Root,15301,40.153565,-80.253411,2019-12-01,,,1
+0,admin,Root,,c0@acme.com,password,Root,15301,40.153565,-80.253411,2019-12-01,,,1
 1,c1,Wilber Woodson,c0,c1@acme.com,password,Ambassador,11933,40.942231,-72.765594,2019-12-15,Ambassador,0,1
 2,c2,Rosaria Rock,c0,c2@acme.com,password,Ambassador,87535,35.528662,-105.747752,2019-12-04,Ambassador,0,1
 3,c3,Inger Ikner,c0,c3@acme.com,password,Ambassador,94086,37.371647,-122.023134,2019-12-29,Ambassador,0,1
