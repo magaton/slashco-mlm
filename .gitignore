@@ -1,0 +1,16 @@
+# IDEs and editors
+.idea
+.project
+.classpath
+.factorypath
+.springBeans
+target
+bin
+.c9/
+*.launch
+.settings
+.DS_Store
+/**/*.iml
+/**/*.ipr
+/**/*.iws
+
